@@ -2,5 +2,5 @@
 from aiogram import Bot, Dispatcher
 
 
-bot = Bot(token='5181502876:AAGRbpPLw7m-sAS3bn176iYe8VNF0M0rTPY')
+bot = Bot(token='5925761046:AAHb7at79peUgdi9tzjfDre4pmvmrwzmSpw')
 dp = Dispatcher(bot)
